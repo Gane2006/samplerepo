@@ -10,6 +10,3 @@ Ganesan
 - Git
 - GitHub
 - VS Code
-
-## Purpose
-Learning Git and GitHub.
